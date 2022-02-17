@@ -1,0 +1,122 @@
+[
+   {
+      "message":{
+         "text":"Angela Baby thích một bài viết của bạn",
+         "highlights":[
+            "Angela Baby"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Angela Baby",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Like",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Mamie Johnson thích một bài viết của bạn",
+         "highlights":[
+            "Mamie Johnson"
+         ]
+      },
+      "isReaded":false,
+      "friend":{
+         "name":"Angela Baby",
+         "avatar":"ic_user2"
+      },
+      "subIcon":"fl_Like",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Anne Copeland bày tỏ cảm xúc về một bài viết của bạn.",
+         "highlights":[
+            "Anne Copeland"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Angela Baby",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Love",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Anne Copeland bày tỏ cảm xúc về một bài viết của bạn.",
+         "highlights":[
+            "Anne Copeland"
+         ]
+      },
+      "isReaded":false,
+      "friend":{
+         "name":"Anne Copeland",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Happy",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Anne Copeland bày tỏ cảm xúc về một bài viết của bạn.",
+         "highlights":[
+            "Anne Copeland"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Anne Copeland",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Surprise",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Anne Copeland bày tỏ cảm xúc về một bài viết của bạn.",
+         "highlights":[
+            "Anne Copeland"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Anne Copeland",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Sad",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text":"Anne Copeland bày tỏ cảm xúc về một bài viết của bạn.",
+         "highlights":[
+            "Anne Copeland"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Anne Copeland",
+         "avatar":"ic_user1"
+      },
+      "subIcon":"fl_Angry",
+      "createdDate":"20/09/2019, 11:57"
+   },
+   {
+      "message":{
+         "text": "Vintage Lab đăng bài viết: HLV Park phát biểu trước trận đấu King’s Cup gặp ThaiLand Vintage Lab đăng bài viết: HLV Park phát biểu trước trận đấu King’s Cup gặp ThaiLand Vintage Lab đăng bài viết: HLV Park phát biểu trước trận đấu King’s Cup gặp ThaiLand Vintage Lab đăng bài viết: HLV Park phát biểu trước trận đấu King’s Cup gặp ThaiLand",
+         "highlights":[
+            "Vintage Lab"
+         ]
+      },
+      "isReaded":true,
+      "friend":{
+         "name":"Vintage Lab",
+         "avatar":"ic_user2"
+      },
+      "subIcon":"ic_bell",
+      "createdDate":"20/09/2019, 11:57"
+   }
+]

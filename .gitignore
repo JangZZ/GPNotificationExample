@@ -1,0 +1,37 @@
+### MacOS ###
+.DS_Store
+*.xcconfig
+xcconfig
+
+### CocoaPods ###
+Pods/*
+*/Pods/*
+Pods
+Pods/Pods.xcodeproj
+VinfastCompanion/builds
+Document
+builds
+
+### Xcode ###
+*.xcuserstate
+xcuserdata
+
+## Xcode Patch
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+
+# fastlane
+fastlane/report.xml
+
+## deliver temporary files
+fastlane/Preview.html
+
+## snapshot generated screenshots
+fastlane/screenshots
+
+## scan temporary files
+fastlane/test_output
